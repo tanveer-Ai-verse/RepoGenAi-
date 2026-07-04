@@ -1,4 +1,4 @@
-# 🚀 RepoGenAi
+#  RepoGenAi 
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?style=for-the-badge&logo=streamlit)
@@ -8,6 +8,8 @@
 > **AI-Powered GitHub Repository Generator** — Upload your Python or Notebook code, and RepoGenAi uses Groq's Llama 3.3 70B to instantly generate a production-ready GitHub repository complete with README, Dockerfile, security scan, dependency diagrams, and more.
 
 ---
+# ▶️ Live Demo App 👇
+https://6ecm42ygvedexrjhlqypye.streamlit.app/
 
 ## ✨ Features
 
